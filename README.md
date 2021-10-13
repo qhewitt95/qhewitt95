@@ -5,7 +5,7 @@
  👀  &#160; I’m interested in learning new developers and new frameworks!<br>
  🌱  &#160; I’m currently learning Python, and React!<br>
  💞️  &#160; I’m looking to collaborate on any new project you might have going on!<br>
- 📫  &#160;You can reach me either by email or direct message!<br>
+ 📫  &#160; You can reach me either by email or direct message!<br>
 <br>
 <h1>My Skills and Experience!</h1>
 <br>
