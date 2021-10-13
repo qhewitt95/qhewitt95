@@ -2,7 +2,7 @@
 ![alt text](https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png?resize=1000%2C576)
 <h1>👋 &nbsp Hi, I’m Quentin Hewitt! </h1>
 
- 👀  &#160; I’m interested in learning new developers and new frameworks!<br>
+ 👀  &#160; I’m interested in learning new frameworks and meeting new developers!<br>
  🌱  &#160; I’m currently learning Python, and React!<br>
  💞️  &#160; I’m looking to collaborate on any new project you might have going on!<br>
  📫  &#160; You can reach me either by email or direct message!<br>
