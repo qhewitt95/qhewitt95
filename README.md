@@ -3,7 +3,7 @@
 <h1>👋 &nbsp Hi, I’m Quentin Hewitt! </h1>
 
  👀  &#160; I’m interested in learning new frameworks and meeting new developers!<br>
- 🌱  &#160; I’m currently learning Python, and React!<br>
+ 🌱  &#160; I’m currently learning React!<br>
  💞️  &#160; I’m looking to collaborate on any new project you might have going on!<br>
  📫  &#160; You can reach me either by email or direct message!<br>
 <br>
