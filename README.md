@@ -7,6 +7,7 @@
  💞️  &#160; I’m looking to collaborate on any new project you might have going on!<br>
  📫  &#160; You can reach me either by email or direct message!<br>
 <br>
+<br>
 <h1>My Skills and Experience!</h1>
 <br>
 <br>
